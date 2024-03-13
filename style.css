@@ -1,0 +1,30 @@
+/* ORIGINAL TASK PUPILS STARTED WITH
+Full credit to code.org for task */
+  
+
+h1 {
+	color: blue;
+  font-size: 26px;
+  background-color: #ebebff;
+  font-style:italic;
+}
+/* I changed the colors to blue with the color tag, changed the font-size to 26px, changed the background color to #ebebff, and changed the font-style to italic*/
+h3 {
+	color: green;
+  font-size: 46px;
+  background-color: #0f0fff;
+  font-family: fantasy;
+}
+/* I changed the colors to green with the color tag, changed the font-size to 46px, did a different font family*/
+
+p {
+	color: red;
+  font-size: 60px;
+  font-family: Arial, sans-serif;
+}
+/* I changed the colors to red with the color tag, changed the font-size to 60px, changed the font-family to Arial, sans-serif*/
+
+body {
+	background-color: yellow;
+}
+/* I changed the background color to yellow*/
